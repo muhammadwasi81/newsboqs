@@ -1,0 +1,140 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: lightgray;
+  border-radius: 6px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: lightgray;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
+  overflow-x: hidden;
+}
+
+.top-logo a {
+  width: 112px;
+  display: inline-block;
+  margin-top: 8px;
+}
+
+.navbar {
+  transition: all 330ms ease-out;
+}
+
+.navbar-open {
+  transform: translateX(0%);
+}
+
+.navbar-close {
+  transform: translateX(-100%);
+}
+
+
+.slide {
+  display: none;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.slide.active {
+  display: block;
+  opacity: 1;
+}
+
+.lang-selector {
+  height: 60px;
+}
+
+.lang-selector select {
+  border-color: black;
+  margin-right: 15px;
+  height: 100%;
+  text-align: center;
+  border-left: 2px solid;
+  border-right: 2px solid;
+  -webkit-appearance: none;
+  text-indent: 1px;
+  text-overflow: ellipsis;
+}
+
+.menu-icon {
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.grid-button {
+  background: none;
+  border: none;
+  display: table-cell;
+  padding: 9px;
+  vertical-align: middle;
+  text-align: center;
+  cursor: pointer;
+}
+
+.grid {
+  background-color: black;
+  color: black;
+  display: inline-block;
+  height: 6px;
+  width: 6px;
+  transition: all 0.3s ease-in-out;
+}
+
+.grid.open {
+  box-shadow: -9px -9px, 0px -9px, 9px -9px, -9px 0px, 9px 0px, -9px 9px, 0px 9px, 9px 9px;
+}
+
+.grid.close {
+  box-shadow: -6px 0px, -12px 0px, 0px -6px, 0px 12px, 0px -12px, 0px 6px, 12px 0px, 6px 0px;
+  transform: rotate(45deg) scale(0.75);
+}
+
+/* Admin Panel */
+
+.MuiButtonBase-root.MuiButton-contained {
+  background-color: #1976d2;
+}

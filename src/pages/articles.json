@@ -1,0 +1,256 @@
+[
+  {
+    "id": 2,
+    "title": "first-article",
+    "slug": "first-article",
+    "content": "Hello world, <p>come</p>",
+    "coverImage": "https://api.holivoo.com/wp-content/uploads/2023/02/8489b6bd-4ac4-4e93-8036-abf39a472161-15213-DubaiAquarium-Dubaiframe-1536x960.jpg",
+    "excerpt": "Hello world",
+    "areaId": null,
+    "status": "draft",
+    "modifiedDate": "2023-08-30T08:38:19.106Z",
+    "userId": null,
+    "countryId": 1,
+    "cityId": null,
+    "categories": [
+      {
+        "id": 1,
+        "name": "Videos"
+      },
+      {
+        "id": 2,
+        "name": "attractions"
+      }
+    ],
+    "translations": [],
+    "country": {
+      "id": 1,
+      "name": "Turkey",
+      "coverImage": "turkey.jpg",
+      "excerpt": "Country located in Europe"
+    }
+  },
+  {
+    "id": 3,
+    "title": "A Guide to the Best Beaches in Lombok for Surfing and Swimming",
+    "slug": "a-guide-to-the-best-beaches-in-lombok-for-surfing-and-swimming",
+    "content": "Hello world, <p>come</p>",
+    "coverImage": "https://api.holivoo.com/wp-content/uploads/2023/02/QJ2yn67x-alserkalavenue_1-2.jpg",
+    "excerpt": "Lombok is an Indonesian island located just east of Bali",
+    "areaId": null,
+    "status": "published",
+    "modifiedDate": "2023-08-30T11:46:12.373Z",
+    "userId": null,
+    "countryId": 5,
+    "cityId": null,
+    "categories": [
+      {
+        "id": 2,
+        "name": "attractions"
+      },
+      {
+        "id": 3,
+        "name": "drinks"
+      }
+    ],
+    "translations": [],
+    "country": {
+      "id": 5,
+      "name": "Tokyo",
+      "coverImage": "tokyo.jpg",
+      "excerpt": "Country located in Asia"
+    }
+  },
+  {
+    "id": 4,
+    "title": "The hot springs of Maldaves",
+    "slug": "the-hot-springs-of-maldaves",
+    "content": "Hello world, <p>come</p>",
+    "coverImage": "https://api.holivoo.com/wp-content/uploads/2023/02/8489b6bd-4ac4-4e93-8036-abf39a472161-15213-DubaiAquarium-Dubaiframe-1536x960.jpg",
+    "excerpt": "Lombok is an Indonesian island located just east of Bali",
+    "areaId": null,
+    "status": "published",
+    "modifiedDate": "2023-08-30T11:47:45.579Z",
+    "userId": null,
+    "countryId": 2,
+    "cityId": null,
+    "categories": [
+      {
+        "id": 1,
+        "name": "Videos"
+      },
+      {
+        "id": 2,
+        "name": "attractions"
+      }
+    ],
+    "translations": [],
+    "country": {
+      "id": 2,
+      "name": "Iraq",
+      "coverImage": "iraq.jpg",
+      "excerpt": "Country located in Middle East"
+    }
+  },
+  {
+    "id": 5,
+    "title": "THE NUSA ISLANDS’ BEST BEACHES FOR RELAXATION AND ROMANTIC 2023",
+    "slug": "the-nusa-islands-best-beaches-for-relaxation-and-romantic-2023",
+    "content": "<p>For beach lovers, the Nusa Islands, which are just off the coast of Bali, Indonesia, are a haven. These islands are ideal for romance and relaxation thanks to their crystal-clear waters, powdery white sands, and beautiful sunsets.<br>\r\nThe following are some of the most romantic and relaxing beaches in the Nusa Islands:<br>\r\nNusa Lembongan Nusa Lembongan is a small island that can be reached from Bali in just 30 minutes by boat. It is well-known for its beautiful beaches and laid-back atmosphere. Mushroom Bay is one of Nusa Lembongan’s best beaches for romance and relaxation. With its soft white sands and crystal-clear waters, this crescent-shaped beach is surrounded by cliffs. The area is ideal for a romantic getaway because it has several resorts and hotels with views of the beach.<br>\r\nThe smallest of the Nusa Islands, Nusa Ceningan is connected to Nusa Lembongan by a yellow bridge. It is a tranquil island with fewer people and a more natural vibe than its larger neighbors. Blue Lagoon Beach is one of Nusa Ceningan’s most romantic and relaxing beaches. Only a narrow path leads to this enigma, which is surrounded by towering cliffs and hidden from view. Despite its small size, the beach is well-known for its clear waters and stunning coral reefs, making it ideal for snorkeling and diving.<br>\r\nNusa Penida Bali is just a short boat ride away on Nusa Penida, the largest of the Nusa Islands. It is well-known for its rough coastline, secluded coves, and beaches. Diamond Beach is one of the best Nusa Penida beaches for romance and relaxation. On the eastern side of the island, this stunning beach is known for its stunning views and crystal-clear waters. It’s the perfect spot for a quiet beach picnic or a romantic sunset walk.<br>\r\nThe Nusa Islands are the ideal location for romance and relaxation, no matter which beach you choose. So why delay? For the ultimate romantic getaway, pack your bags and head to this paradise.<br>\r\nAddress: Mushroom Bay, Nusa Lembongan Bali, Indonesia, Nusa Lembongan, Klungkung Regency Description: a beach in the shape of a crescent with soft white sand, crystal-clear water, and is ideal for romance and relaxation.</p>\r\n<p>Address: Blue Lagoon Beach, Nusa Ceningan Bali, Indonesia, Nusa Ceningan, Klungkung Regency Description: A secluded treasure surrounded by towering cliffs that is renowned for its stunning coral reefs and crystal-clear waters.<br>\r\nAddress for Diamond Beach in Nusa Penida: Bali, Indonesia, Nusa Penida, Klungkung Regency Description: A stunning beach with stunning views and crystal-clear waters that is ideal for a quiet picnic on the sand or a romantic sunset walk.<br>\r\nSandy Bay Beach, Nusa Lembongan Sandy Bay Beach is known for its long stretch of white sand and crystal-clear waters. It is on the western side of Nusa Lembongan. It’s a popular spot for surfing, but you can also relax and enjoy the sun there. The area is ideal for a romantic getaway because it has several resorts and hotels with views of the beach.<br>\r\nSecret Beach, Nusa Penida Secret Beach, also known as Pasih Uwug Beach, is a secluded gem on Nusa Penida’s southwest side. It is well-known for its rough coastline, secluded coves, and beaches. The water is crystal clear, and the sand is soft, white, and the beach is small and private. It’s the ideal spot for a quiet sea swim or a romantic picnic on the sand.<br>\r\nPandawa Beach, Nusa Penida Pandawa Beach is a stunning beach with white sand that can be found on the southern end of Nusa Penida. It is well-known for its stunning views of the nearby cliffs and crystal-clear waters. The beach is ideal for romance and relaxation because it is relatively uncrowded. You can easily stay the night at one of the many beachfront hotels and resorts in the area and have a romantic dinner by the beach at sunset.<br>\r\nAddress: Sandy Bay Beach, Nusa Lembongan Bali, Indonesia, Nusa Lembongan, Klungkung Regency Description: a long stretch of pristine white sand and water that is ideal for surfing or just relaxing.<br>\r\nAddress for Secret Beach in Nusa Penida: Bali, Indonesia, Nusa Penida, Klungkung Regency Description: a hidden gem with rugged coastline, secret coves, and private beaches that are ideal for a quiet swim or a romantic picnic.</p>\r\n<p>Address for Pandawa Beach in Nusa Penida: Bali, Indonesia, Nusa Penida, Klungkung Regency Description: A stunning beach with white sand, crystal-clear water, and breathtaking views of the surrounding cliffs, ideal for romance and relaxation.</p>\r\n<p><img decoding=\"async\" src=\"https://dailytravelpill.com/wp-content/uploads/2021/02/diamond-beach-nusa-penida-bali-view.jpg\" alt=\"11 BEST Beaches in Nusa Penida - EPIC places you need to see - Daily Travel  Pill\"></p>\r\n<p><span style=\"font-weight: 400;\">Copy:</span></p>\r\n<p><a href=\"https://www.holivoo.com/\"><span style=\"font-weight: 400;\">Traveling in English</span></a></p>\r\n<p><a href=\"http://luxingshijian.com/\"><span style=\"font-weight: 400;\">Traveling in Mandarin</span></a></p>\r\n<p><a href=\"http://leglobeterrestre.com/\"><span style=\"font-weight: 400;\">Traveling in French</span></a></p>\r\n<p><a href=\"http://hypeyatra.com/\"><span style=\"font-weight: 400;\">Traveling in Hindi</span></a></p>\r\n<p><a href=\"http://viajaraway.com/\"><span style=\"font-weight: 400;\">Traveling in Spanish</span></a></p>\r\n<p><a href=\"http://bonsafar.com/\"><span style=\"font-weight: 400;\">Traveling in Arabic</span></a></p>\r\n<p><a href=\"http://vivakasyon.com/\"><span style=\"font-weight: 400;\">Traveling in Tagalog</span></a></p>\r\n<p><a href=\"http://pergitrip.com/\"><span style=\"font-weight: 400;\">Traveling in Indonesian</span></a></p>\r\n<p><a href=\"http://chutiania.com/\"><span style=\"font-weight: 400;\">Traveling in Bengali</span></a></p>\r\n<p><a href=\"http://phaaen.com/\"><span style=\"font-weight: 400;\">Traveling in Thai</span></a></p>\r\n<p><a href=\"http://myferias.com/\"><span style=\"font-weight: 400;\">Traveling in Portuguese</span></a></p>\r\n<p><a href=\"http://lazyhyuga.com/\"><span style=\"font-weight: 400;\">Traveling in Korean</span></a></p>\r\n<p><span style=\"font-weight: 400;\">Images from:</span></p>\r\n<p>https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fdailytravelpill.com%2Fbest-beaches-in-nusa-penida%2F&amp;psig=AOvVaw0Q5s2NEC5KQqYEeQ14iA4K&amp;ust=1675272330047000&amp;source=images&amp;cd=vfe&amp;ved=0CBEQjhxqFwoTCKDSg_6p8vwCFQAAAAAdAAAAABAJ</p>",
+    "coverImage": "https://api.holivoo.com/wp-content/uploads/2023/02/Dubai-Mall.jpg",
+    "excerpt": "For beach lovers, the Nusa Islands, which are just off the coast of Bali, Indonesia, are a haven.",
+    "areaId": null,
+    "status": "published",
+    "modifiedDate": "2023-08-22T23:22:59.000Z",
+    "userId": null,
+    "countryId": 3,
+    "cityId": null,
+    "categories": [],
+    "translations": [],
+    "country": {
+      "id": 3,
+      "name": "Israel",
+      "coverImage": "iraq.jpg",
+      "excerpt": "Country located in Middle East"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Smiling Test",
+    "slug": "smiling-test",
+    "content": "This is just a test <p>come</p>",
+    "coverImage": "https://api.holivoo.com/wp-content/uploads/2023/02/Afternoon-tea-at-The-Goring.gif",
+    "excerpt": "This is just a test",
+    "areaId": null,
+    "status": "published",
+    "modifiedDate": "2023-08-31T00:19:32.501Z",
+    "userId": null,
+    "countryId": 1,
+    "cityId": null,
+    "categories": [
+      {
+        "id": 1,
+        "name": "Videos"
+      },
+      {
+        "id": 2,
+        "name": "attractions"
+      }
+    ],
+    "translations": [],
+    "country": {
+      "id": 1,
+      "name": "Turkey",
+      "coverImage": "turkey.jpg",
+      "excerpt": "Country located in Europe"
+    }
+  },
+  {
+    "id": 7,
+    "title": "A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands 2023",
+    "slug": "guide-best-shopping-lombok-local-markets-luxury-brands-2023",
+    "content": "“A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands”\r\n\r\nLombok is an Indonesian island located just east of Bali, and it is known for its stunning beaches, crystal-clear waters, and vibrant shopping scene. In this article, we will take a look at some of the best places to shop in Lombok, including local markets, shopping centers, and luxury brands.\r\n\r\nOne of the top shopping destinations in Lombok is the Mataram Mall. Located in the city of Mataram, this mall is the largest and most modern shopping center on the island. It has a range of international and local brands, as well as a food court and a cinema.\r\n\r\nAnother great shopping destination in Lombok is the Kuta Art Market. Located in the village of Kuta, this market is a great place to find local crafts, souvenirs, and clothing. The market has a range of stalls selling traditional Indonesian handicrafts, such as batik fabric, woodcarvings, and silver jewelry.\r\n\r\nFor a more high-end shopping experience, you can visit the luxury boutiques and stores in the village of Senggigi. This village has a range of international brands, as well as local designers, offering a range of fashion, accessories, and home decor.\r\n<p><img decoding=\"async\" src=\"https://pix10.agoda.net/hotelImages/10291579/-1/3d0eb4a91721b26f9f239f0c9e0287a2.jpg?ca=10&amp;ce=1&amp;s=1024x768\" alt=\"OYO 1492 Rupaqa Hotel - Harga Promo Terbaik 2023 - Agoda\"></p>",
+    "coverImage": "https://api.holivoo.com/wp-content/uploads/2023/01/3d0eb4a91721b26f9f239f0c9e0287a2.jpg",
+    "excerpt": "“A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands”\r\n",
+    "areaId": null,
+    "status": "published",
+    "modifiedDate": "2023-08-23T12:27:03.000Z",
+    "userId": null,
+    "countryId": 1,
+    "cityId": null,
+    "categories": [
+      {
+        "id": 2,
+        "name": "attractions"
+      }
+    ],
+    "translations": [],
+    "country": {
+      "id": 1,
+      "name": "Turkey",
+      "coverImage": "turkey.jpg",
+      "excerpt": "Country located in Europe"
+    }
+  },
+  {
+    "id": 8,
+    "title": "A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands 2023",
+    "slug": "guide-best-shopping-lombok-local-markets-luxury-brands-2023",
+    "content": "“A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands”\r\n\r\nLombok is an Indonesian island located just east of Bali, and it is known for its stunning beaches, crystal-clear waters, and vibrant shopping scene. In this article, we will take a look at some of the best places to shop in Lombok, including local markets, shopping centers, and luxury brands.\r\n\r\nOne of the top shopping destinations in Lombok is the Mataram Mall. Located in the city of Mataram, this mall is the largest and most modern shopping center on the island. It has a range of international and local brands, as well as a food court and a cinema.\r\n\r\nAnother great shopping destination in Lombok is the Kuta Art Market. Located in the village of Kuta, this market is a great place to find local crafts, souvenirs, and clothing. The market has a range of stalls selling traditional Indonesian handicrafts, such as batik fabric, woodcarvings, and silver jewelry.\r\n\r\nFor a more high-end shopping experience, you can visit the luxury boutiques and stores in the village of Senggigi. This village has a range of international brands, as well as local designers, offering a range of fashion, accessories, and home decor.\r\n<p><img decoding=\"async\" src=\"https://pix10.agoda.net/hotelImages/10291579/-1/3d0eb4a91721b26f9f239f0c9e0287a2.jpg?ca=10&amp;ce=1&amp;s=1024x768\" alt=\"OYO 1492 Rupaqa Hotel - Harga Promo Terbaik 2023 - Agoda\"></p>",
+    "coverImage": "https://api.holivoo.com/wp-content/uploads/2023/01/3d0eb4a91721b26f9f239f0c9e0287a2.jpg",
+    "excerpt": "“A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands”\r\n",
+    "areaId": null,
+    "status": "published",
+    "modifiedDate": "2023-08-23T12:27:03.000Z",
+    "userId": null,
+    "countryId": 1,
+    "cityId": null,
+    "categories": [
+      {
+        "id": 2,
+        "name": "attractions"
+      }
+    ],
+    "translations": [],
+    "country": {
+      "id": 1,
+      "name": "Turkey",
+      "coverImage": "turkey.jpg",
+      "excerpt": "Country located in Europe"
+    }
+  },
+  {
+    "id": 9,
+    "title": "A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands 2023",
+    "slug": "guide-best-shopping-lombok-local-markets-luxury-brands-2023",
+    "content": "“A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands”\r\n\r\nLombok is an Indonesian island located just east of Bali, and it is known for its stunning beaches, crystal-clear waters, and vibrant shopping scene. In this article, we will take a look at some of the best places to shop in Lombok, including local markets, shopping centers, and luxury brands.\r\n\r\nOne of the top shopping destinations in Lombok is the Mataram Mall. Located in the city of Mataram, this mall is the largest and most modern shopping center on the island. It has a range of international and local brands, as well as a food court and a cinema.\r\n\r\nAnother great shopping destination in Lombok is the Kuta Art Market. Located in the village of Kuta, this market is a great place to find local crafts, souvenirs, and clothing. The market has a range of stalls selling traditional Indonesian handicrafts, such as batik fabric, woodcarvings, and silver jewelry.\r\n\r\nFor a more high-end shopping experience, you can visit the luxury boutiques and stores in the village of Senggigi. This village has a range of international brands, as well as local designers, offering a range of fashion, accessories, and home decor.\r\n<p><img decoding=\"async\" src=\"https://pix10.agoda.net/hotelImages/10291579/-1/3d0eb4a91721b26f9f239f0c9e0287a2.jpg?ca=10&amp;ce=1&amp;s=1024x768\" alt=\"OYO 1492 Rupaqa Hotel - Harga Promo Terbaik 2023 - Agoda\"></p>",
+    "coverImage": "https://api.holivoo.com/wp-content/uploads/2023/01/3d0eb4a91721b26f9f239f0c9e0287a2.jpg",
+    "excerpt": "“A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands”\r\n",
+    "areaId": null,
+    "status": "published",
+    "modifiedDate": "2023-08-23T12:27:03.000Z",
+    "userId": null,
+    "countryId": 1,
+    "cityId": null,
+    "categories": [
+      {
+        "id": 2,
+        "name": "attractions"
+      }
+    ],
+    "translations": [],
+    "country": {
+      "id": 1,
+      "name": "Turkey",
+      "coverImage": "turkey.jpg",
+      "excerpt": "Country located in Europe"
+    }
+  },
+  {
+    "id": 10,
+    "title": "A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands 2023",
+    "slug": "guide-best-shopping-lombok-local-markets-luxury-brands-2023",
+    "content": "“A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands”\r\n\r\nLombok is an Indonesian island located just east of Bali, and it is known for its stunning beaches, crystal-clear waters, and vibrant shopping scene. In this article, we will take a look at some of the best places to shop in Lombok, including local markets, shopping centers, and luxury brands.\r\n\r\nOne of the top shopping destinations in Lombok is the Mataram Mall. Located in the city of Mataram, this mall is the largest and most modern shopping center on the island. It has a range of international and local brands, as well as a food court and a cinema.\r\n\r\nAnother great shopping destination in Lombok is the Kuta Art Market. Located in the village of Kuta, this market is a great place to find local crafts, souvenirs, and clothing. The market has a range of stalls selling traditional Indonesian handicrafts, such as batik fabric, woodcarvings, and silver jewelry.\r\n\r\nFor a more high-end shopping experience, you can visit the luxury boutiques and stores in the village of Senggigi. This village has a range of international brands, as well as local designers, offering a range of fashion, accessories, and home decor.\r\n<p><img decoding=\"async\" src=\"https://pix10.agoda.net/hotelImages/10291579/-1/3d0eb4a91721b26f9f239f0c9e0287a2.jpg?ca=10&amp;ce=1&amp;s=1024x768\" alt=\"OYO 1492 Rupaqa Hotel - Harga Promo Terbaik 2023 - Agoda\"></p>",
+    "coverImage": "https://api.holivoo.com/wp-content/uploads/2023/01/3d0eb4a91721b26f9f239f0c9e0287a2.jpg",
+    "excerpt": "“A Guide to the Best Shopping in Lombok: From Local Markets to Luxury Brands”\r\n",
+    "areaId": null,
+    "status": "published",
+    "modifiedDate": "2023-08-23T12:27:03.000Z",
+    "userId": null,
+    "countryId": 1,
+    "cityId": null,
+    "categories": [
+      {
+        "id": 2,
+        "name": "attractions"
+      }
+    ],
+    "translations": [],
+    "country": {
+      "id": 1,
+      "name": "Turkey",
+      "coverImage": "turkey.jpg",
+      "excerpt": "Country located in Europe"
+    }
+  }
+]
