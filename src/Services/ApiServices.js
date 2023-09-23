@@ -1,12 +1,12 @@
-import axios from 'axios';
+import axios from "axios";
 
 const apiGlobal = axios.create({
-  baseURL: 'http://localhost:8000/api',
+  baseURL: "https://newsboqs.onrender.com/api",
 });
 
 export const getAllBlogs = async () => {
   try {
-    const response = await apiGlobal.get('/admin/websites');
+    const response = await apiGlobal.get("/admin/websites");
     return response.data;
   } catch (error) {
     console.error(error);
